@@ -1,0 +1,4 @@
+railscon
+========
+
+contributing to rails
